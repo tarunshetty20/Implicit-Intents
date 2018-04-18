@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">callphone</string>
+    <string name="phonenum">Phno</string>
+    <string name="Dial">RING</string>
+    <string name="enternum">Enter the no :</string>
+    <string name="Clickme">Launch</string>
+    <string name="title_activity_web">WebActivity</string>
+    <string name="Url">Enter URL :</string>
+    <string name="implicit">Implicit intents</string>
+    <string name="closeapp">Close</string>
+</resources>
